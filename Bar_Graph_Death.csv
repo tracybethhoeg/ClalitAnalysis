@@ -1,0 +1,7 @@
+Study,Date,Doses,Ages,Effectiveness,ve_death_minus_error,ve_death_plus_error
+"Dagan et al., Apr-21",21-Apr,2 vs 0 Doses (>16yo),>16 years,0.72,0.52,0.28
+"Arbel et al, Dec-21",21-Dec,3 vs 2 Doses (>50yo),>50 years,0.9,0.04,0.03
+"Barda et al, Dec-21",21-Dec,3 vs 2 Doses (>12yo),">12, median age 52",0.81,0.22,0.16
+"Arbel et al, Apr-22",22-Apr,4 vs 3 Doses (>60yo),60-100,0.78,0.06,0.05
+"Magen et al, Apr-22",22-Apr,4 vs 3 Doses (>60yo),>60,0.74,0.24,0.16
+"Arbel et al, Jan-23",23-Jan,Bivalent vs 0+ (>65yo),>65 years,0.86,0.09,0.08
